@@ -1,6 +1,6 @@
 {
   "name": "@denzz221/baileys",
-  "version": "8.0.8",
+  "version": "8.1.1",
   "description": "WhatsApp API Modification By denzz221",
   "keywords": [
     "whatsapp",
@@ -51,7 +51,7 @@
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
     "lodash": "^4.17.21",
-    "libsignal": "github:denzz221/libsignal-node",
+    "libsignal": "https://github:denzz221/libsignal-node",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "node-fetch": "^2.6.1",
@@ -61,7 +61,7 @@
     "ws": "^8.13.0"
   },
   "devDependencies": {
-    "@adiwajshing/eslint-config": "github:denzz221/eslint-config",
+    "@adiwajshing/eslint-config": "https://github:denzz221/eslint-config",
     "@types/got": "^9.6.11",
     "@types/jest": "^27.5.1",
     "@types/node": "^20.0.0",
