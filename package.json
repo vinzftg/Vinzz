@@ -1,7 +1,7 @@
 {
-    "name": "@denzz221/baileys",
+    "name": "@vinzz/baileys",
     "version": "8.1.7",
-    "description": "WhatsApp API Modification By DenixXvynix",
+    "description": "WhatsApp API Modification By Vinz",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -17,7 +17,7 @@
         "url": "https://github.com/denzz221/Bailey"
     },
     "license": "MIT",
-    "author": "DenixXvynix",
+    "author": "Vinz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
